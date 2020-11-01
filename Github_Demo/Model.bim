@@ -202,12 +202,6 @@
             }
           }
         ],
-        "measures": [
-          {
-            "name": "List Price Sum",
-            "expression": " SUM('Product'[ListPrice])"
-          }
-        ],
         "annotations": [
           {
             "name": "_TM_ExtProp_QueryDefinition",
